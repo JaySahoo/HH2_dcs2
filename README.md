@@ -6,6 +6,8 @@ This repository contains the data files used in the publication titled "Unraveli
 The user may encounter the keywords "UC" and "BD" in the name of some data files. Here UC refers to uncoupled (single ground adiabatic state) and BD refers to coupled (BKMP2+DMBE) state situations.
 *********************************
 
+The User may find the following zip files in this repository.
 
-* THE DATA WILL BE UPLOADED SOON *
+1) Main.zip
+2) ESI.zip
   
